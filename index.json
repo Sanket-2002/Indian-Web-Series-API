@@ -1723,6 +1723,26 @@
     "episodeCount": "15",
     "seasons": 3,
     "releaseDate": "2018"
-}
+},
+ {
+        "id": 95,
+        "name": "Patal lok",
+        "rating": ,
+        "description": "A down-and-out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit leads him to 'Paatal Lok' and to shocking discoveries in the four suspects' pasts.",
+        "category": ["Crime ", "Drama", "thriller"],
+        "platform": "amazon original",
+        "casting": {
+            "actors": [
+                "Jaideep Alhawat",
+                "Neerai Kabi",
+                "Iswak Singh"
+            ],
+            "director": ["Sudip Sharma"]
+        },
+        "poster": "https://www.imdb.com/title/tt12719250/mediaviewer/rm1713823233/",
+        "episodeCount": 9,
+        "seasons": 2,
+        "releaseDate": "15-05-2020"
+    }
         
 ]
